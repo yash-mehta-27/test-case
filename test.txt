@@ -5,6 +5,7 @@ hello
 5th line
 local change
 
+<<<<<<< HEAD
 Test1
 2nd line
 3rd line
@@ -12,3 +13,5 @@ Test1
 5th line
 
 This is in master branch
+=======
+>>>>>>> parent of 1bf561a... Merge pull request #1 from yash-mehta-27/test1
